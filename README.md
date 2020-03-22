@@ -1,5 +1,5 @@
 # Movie List with Genres.
-A simple Movie List can be filter by genre
+A simple Movie List can be filtered by genre
 
 ## Features
 - You can easily choose a genre to get the movie list.
